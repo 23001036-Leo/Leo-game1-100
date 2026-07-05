@@ -14,4 +14,4 @@ else
   git push
 fi
 
-echo "Published URL: https://23001036-leo.github.io/game2/"
+echo "Published URL: https://23001036-leo.github.io/Leo-game1-100/"
